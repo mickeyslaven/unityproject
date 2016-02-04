@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: cc836af4bb88ee744b5b4566b16e84ea
+timeCreated: 1449016465
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Status00_Base
+    21300002: Status00_Fill
+    21300004: Status01_Base
+    21300006: Status01_Fill
+    21300008: Status02_Base
+    21300010: Status02_Fill
+    21300012: Status03_Base
+    21300014: Status03_Fill
+    21300016: TextBase00
+    21300018: TextBase_01
+    21300020: 03_text_Base
+    21300022: xIcon Example
+    21300024: 00_Status_Base
+    21300026: 00_Status_Fill
+    21300028: 01_Status_Base
+    21300030: 01_Status_Fill
+    21300032: 02_Status_Base
+    21300034: 02_Status_Fill
+    21300036: 03_Status_Base
+    21300038: 03_Status_Fill
+    21300040: 00_Text_Base
+    21300042: 01_Text_Base
+    21300044: 03_Text_Base
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 00_Status_Base
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 00_Status_Fill
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 864
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 01_Status_Base
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 864
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 01_Status_Fill
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 02_Status_Base
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 576
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 02_Status_Fill
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 576
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 03_Status_Base
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 03_Status_Fill
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 00_Text_Base
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 288
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 01_Text_Base
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 03_Text_Base
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xIcon Example
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 720
+        height: 288
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
